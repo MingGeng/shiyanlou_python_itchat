@@ -1,0 +1,3 @@
+itchat==1.3.10
+pyecharts==0.5.11
+pillow==5.3
